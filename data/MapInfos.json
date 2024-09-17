@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"world Map","order":1,"parentId":0,"scrollX":704.5,"scrollY":388},
-{"id":2,"expanded":false,"name":"accueil","order":2,"parentId":1,"scrollX":727.5,"scrollY":396}
+{"id":2,"expanded":true,"name":"accueil","order":2,"parentId":1,"scrollX":727.5,"scrollY":396},
+{"id":3,"expanded":false,"name":"Salle de réunion","order":3,"parentId":1,"scrollX":704.5,"scrollY":396}
 ]
